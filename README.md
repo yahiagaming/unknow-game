@@ -1,4 +1,4 @@
-welcome to my game your computer choose a ramdom number if the number=50 you lose if you prefer live in 60 seconds you win
+welcome to my game your computer choose a random number if the number=50 you lose if you prefer live in 60 seconds you win
 scroll down to read this text in arabic
 
 
